@@ -1,0 +1,5 @@
+In this mini-project, we aimed to analyze and evaluate dimensionality reduction techniques and their impact on the performance of machine learning models, particularly Support Vector Machines (SVM). We employed various dimensionality reduction methods, including t-SNE (t-Distributed Stochastic Neighbor Embedding), PCA (Principal Component Analysis), and LDA (Linear Discriminant Analysis), and applied them to a dataset to investigate their effects.
+
+We implemented SVM with both linear and polynomial kernels, comparing a custom-built polynomial SVM with the scikit-learn library implementation for polynomial degrees ranging from 1 to 10. Additionally, we explored using autoencoders for denoising data and SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance.
+
+The results demonstrated the significant impact of these techniques on model performance. Implementing SVM from scratch provided deeper insights into model accuracy and robustness, highlighting the importance of appropriate preprocessing and balancing techniques for improving machine learning models.
