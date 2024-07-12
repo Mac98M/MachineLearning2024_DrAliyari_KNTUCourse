@@ -16,3 +16,11 @@ The project demonstrates the significant improvements in model accuracy and robu
 The Credit Card Fraud Detection dataset from Kaggle consists of transactions made by European cardholders in September 2013. It includes 284,807 transactions, with only 492 being fraudulent, making it highly imbalanced. The dataset has 30 features, including 28 anonymized numerical features obtained through PCA, and 'Time' and 'Amount'. The 'Class' attribute indicates fraud (1) or non-fraud (0). This dataset is used to benchmark anomaly detection algorithms and was utilized in question 3 of this project to apply dimensionality reduction techniques and SVM models with various kernels.
 
 For more details, visit the Kaggle dataset page.
+
+
+You can download my codes from my Google Drive:
+
+Q1: https://colab.research.google.com/drive/1_2nGcmVIjCfeN71Mo3PFF4RpK1dQSNWQ?usp=sharing
+
+
+Q3: https://colab.research.google.com/drive/1yoCMqXnOiOpUPHhJt4Y-9fSK5ZLIJg0f?usp=sharing
