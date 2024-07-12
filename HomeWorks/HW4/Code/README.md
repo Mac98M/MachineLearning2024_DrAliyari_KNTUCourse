@@ -9,3 +9,8 @@ Both implementations include scripts for training the agents and visualizing the
 This project demonstrates the application of reinforcement learning algorithms to a classic AI problem, highlighting the practical aspects of training agents to make optimal decisions in uncertain environments. The code provided serves as a foundation for further exploration and experimentation in the field of reinforcement learning.
 
 Feel free to explore the Code folder, run the training scripts, and visualize the results to gain a deeper understanding of how Q-learning and DQN can be applied to solve complex decision-making problems like the Wumpus World.
+
+
+Google Colab file link address :
+
+Q1 : https://colab.research.google.com/drive/1JLMGpxVqUsESdC5bmv61DCmySJ4HSUvi?usp=sharing
