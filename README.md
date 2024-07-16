@@ -5,33 +5,36 @@ Welcome to the official repository for the Machine Learning 2024 course by Dr. M
 
 This course aims to provide students with a robust understanding of machine learning fundamentals and advanced techniques. Key topics covered include:
 
-- **Introduction to Machine Learning Concepts**: Understanding the basics of machine learning, types of learning (supervised, unsupervised, reinforcement), and their applications.
-- **Regression Analysis**: Exploring concepts such as least squares regression, logistic regression, gradient descent, and recursive least squares.
-- **Classification Techniques**: Discussing linear classifiers, perceptrons, Bayesian decision theory, and density estimation methods.
-- **Dimensionality Reduction**: Techniques like Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA), and introductions to nonlinear dimensionality reduction.
-- **Support Vector Machines (SVM)**: Learning about linear and kernel-based SVMs and their applications in classification tasks.
-- **Neural Networks**: Understanding the physiology and development of neural networks, their mathematical models, and applications.
-- **Instance-Based Learning**: Methods such as k-Nearest Neighbors (kNN) and radial basis functions.
-- **Fuzzy Systems**: An introduction to fuzzy logic, fuzzy rule-based systems, and their applications in control systems and pattern recognition.
-- **Decision Trees**: Examining decision trees, their algorithms (e.g., ID3), entropy, and their advantages and disadvantages.
-- **Ensemble Methods**: Discussing techniques like bagging, boosting, and algorithms such as AdaBoost.
-- **Reinforcement Learning**: Covering the fundamentals of reinforcement learning and algorithms like Q-learning.
-- **Evolutionary Algorithms**: An introduction to optimization methods based on evolutionary principles, including genetic algorithms.
-
-## Resources and References
-
-The course relies on several key texts in the field, including but not limited to:
-
-- **Tom Mitchell**: “Machine Learning”, McGraw Hill, 1997.
-- **Christopher M. Bishop**: “Pattern Recognition and Machine Learning”, Springer, 2006.
-- **S. Theodoridis and K. Koutroumbas**: "Pattern Recognition", Fourth Edition, Academic Press, 2009.
-- **K. Murphy**: “Machine Learning: A Probabilistic Perspective”, MIT Press, 2012.
-- **Martin T. Hagan et al.**: “Neural Network Design”, 2nd Edition, 2014.
-- **Li-Xin Wang**: “A Course in Fuzzy Systems and Control”, Prentice Hall, 1996.
+- **Linear Algebra and Matrix Operations**: Understanding positive definite matrices, eigenvalues, eigenvectors, and singular value decomposition.
+- **Neural Networks and Activation Functions**: Exploring neural network structures, different activation functions (ReLU, ELU), and their applications.
+- **Support Vector Machines (SVM)**: Analyzing SVMs with various kernels and their performance on classification tasks.
+- **Reinforcement Learning**: Implementing Q-learning and Deep Q-learning algorithms for solving complex environments.
 
 ## Projects and Assignments
 
 Throughout the semester, students will work on various mini-projects and assignments using programming languages such as Python and MATLAB. These projects are designed to provide hands-on experience with machine learning algorithms and their applications.
+
+### Mini Projects Overview
+
+#### Mini Project 1: Neural Networks and Activation Functions
+- **Concepts Covered**: Neural networks, activation functions (ReLU, ELU), McCulloch-Pitts neuron, perceptrons, multi-layer perceptrons.
+- **Objectives**: Implement and analyze the effects of different activation functions in neural networks, and perform classification tasks using advanced neural network structures.
+
+#### Mini Project 2: Support Vector Machines and Dimensionality Reduction
+- **Concepts Covered**: Support Vector Machines (SVM), kernel methods, dimensionality reduction (PCA, t-SNE).
+- **Objectives**: Investigate the performance of SVM on various datasets, explore linear and polynomial kernels, and compare the results with and without dimensionality reduction.
+
+#### Mini Project 3: Reinforcement Learning with Q-learning and Deep Q-learning
+- **Concepts Covered**: Q-learning, Deep Q-learning, reinforcement learning, policy performance analysis.
+- **Objectives**: Utilize Q-learning and Deep Q-learning to solve the Wumpus World problem and the Lunar Lander environment, analyze policy performance, and compare learning efficiency between Q-learning and Deep Q-learning models.
+
+#### Mini Project 4: Linear Algebra and Matrix Operations
+- **Concepts Covered**: Positive definite matrices, eigenvalues and eigenvectors, matrix rotations, least squares solutions, and matrix decompositions.
+- **Objectives**: Understand and implement key linear algebra concepts and their applications in machine learning algorithms.
+
+### Extra Mini Project: Advanced Linear Algebra
+- **Concepts Covered**: Eigenvalues and eigenvectors, positive definite matrices, matrix decompositions, and least squares solutions.
+- **Objectives**: Solve advanced problems involving linear algebra concepts, and implement these concepts in Python for practical applications.
 
 ### Final Project
 
@@ -53,7 +56,3 @@ The course evaluation is based on the following components:
 - **Projects**: Includes mini-projects and the final project.
 - **Resources**: Additional resources and references used throughout the course.
 
-How to Use This Repository
-HomeWorks: Contains all assignments and their solutions.
-Projects: Includes mini-projects and the final project.
-Resources: Additional resources and references used throughout the course.
