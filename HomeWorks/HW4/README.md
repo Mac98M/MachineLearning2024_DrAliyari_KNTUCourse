@@ -1,3 +1,4 @@
+# Reinforcement Learning
 Welcome to the Wumpus World Project Repository. This project is part of a Machine Learning course where we explore and implement two important reinforcement learning algorithms: Q-learning and Deep Q-Networks (DQN). Our goal is to solve the Wumpus World problem, a classic AI challenge, by training agents to navigate a grid-based environment filled with hazards to find gold and exit safely.
 
 The Wumpus World is a grid-based environment where an agent must navigate to find gold while avoiding deadly pits and a dangerous Wumpus. The environment provides a rich context for testing reinforcement learning algorithms due to its combination of rewards and risks. The agent can move in four directions or shoot arrows to kill the Wumpus, making it a perfect setting for evaluating decision-making algorithms.
