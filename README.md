@@ -55,5 +55,5 @@ The course evaluation is based on the following components:
 
 ## Contact
 
-For any questions or issues, please contact Me at [masihmj00@gmail.com](mailto:masihmj00@gmail.com)
+For any questions or issues, please contact Me at [masihmj00@gmail.com](mailto:masihmj00@gmail.com).
 
