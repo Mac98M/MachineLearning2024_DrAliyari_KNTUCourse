@@ -1,4 +1,4 @@
-# Reinforcement Learning Problem
+# Wumpus World Problem
 This folder contains the implementations of the Q-learning and DQN algorithms tailored for the Wumpus World problem. Both implementations include essential components such as the environment setup, agent training, and performance evaluation.
 
 The Q-learning implementation involves a grid-based environment where the agent updates its Q-values based on the state-action-reward-next state transitions. The Q-learning agent starts with an exploration phase to gather information about the environment and gradually shifts towards exploitation as it learns the optimal policy. Key hyperparameters such as the learning rate, discount factor, and exploration rate are fine-tuned to ensure efficient learning.
@@ -13,5 +13,4 @@ Feel free to explore the Code folder, run the training scripts, and visualize th
 
 
 Google Colab address :  
-
-[Q1](https://colab.research.google.com/drive/1JLMGpxVqUsESdC5bmv61DCmySJ4HSUvi?usp=sharing)
+[Q1 Code](https://colab.research.google.com/drive/1JLMGpxVqUsESdC5bmv61DCmySJ4HSUvi?usp=sharing)
