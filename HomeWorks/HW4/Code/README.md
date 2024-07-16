@@ -13,4 +13,4 @@ Feel free to explore the Code folder, run the training scripts, and visualize th
 
 Google Colab file link address :
 
-Q1 : https://colab.research.google.com/drive/1JLMGpxVqUsESdC5bmv61DCmySJ4HSUvi?usp=sharing
+[Q1](https://colab.research.google.com/drive/1JLMGpxVqUsESdC5bmv61DCmySJ4HSUvi?usp=sharing)
