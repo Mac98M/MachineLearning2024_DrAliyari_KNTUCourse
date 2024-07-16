@@ -12,5 +12,4 @@ This project demonstrates the application of reinforcement learning algorithms t
 Feel free to explore the Code folder, run the training scripts, and visualize the results to gain a deeper understanding of how Q-learning and DQN can be applied to solve complex decision-making problems like the Wumpus World.
 
 
-Google Colab address :  
-[Q1 Code](https://colab.research.google.com/drive/1JLMGpxVqUsESdC5bmv61DCmySJ4HSUvi?usp=sharing)
+Google Colab address : [Code](https://colab.research.google.com/drive/1JLMGpxVqUsESdC5bmv61DCmySJ4HSUvi?usp=sharing)
