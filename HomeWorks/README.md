@@ -1,4 +1,4 @@
-# Homework and Mini Projects for Machine Learning 2024 - Dr. Aliyari KNTU Course
+# Homework and Mini Projects
 
 This folder contains all the homework assignments and mini projects for the Machine Learning 2024 course by Dr. Mehdi Aliyari at Khajeh Nasir Toosi University of Technology (KNTU). Each mini project focuses on specific concepts and techniques in machine learning, providing hands-on experience and practical application.
 
