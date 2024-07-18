@@ -16,7 +16,6 @@ This Machine Learning course is offered by the Mechatronics/Control group at K. 
 - S. Theodoridis and K. Koutroumbas, "Pattern Recognition", Fourth Edition, Academic Press, 2009.
 - K. Murphy, “Machine Learning: A Probabilistic Perspective”, MIT Press, 2012.
 - Martin T Hagan et al., “Neural Network Design”, 2nd Edition, 2014.
-- Li-Xin Wang, “A Course in Fuzzy Systems and Control”, Prentice Hall, 1996.
 
 ### Course Topics
 1. **Introduction to Machine Learning and Classifiers:** Overview of machine learning, types of learning, classifiers, and clustering methods.
