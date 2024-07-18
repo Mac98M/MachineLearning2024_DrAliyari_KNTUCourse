@@ -1,6 +1,6 @@
 # Machine Learning Course: Mini Projects
 
-Welcome to the repository for the Machine Learning course mini projects. This repository contains the implementation, analysis, and evaluation of various machine learning algorithms and techniques through four mini projects. Each mini project explores different aspects of machine learning, from classification and regression to neural networks and reinforcement learning.
+Welcome to the repository for the Machine Learning course . This repository contains the implementation, analysis, and evaluation of various machine learning algorithms and techniques through four mini projects. Each mini project explores different aspects of machine learning, from classification and regression to neural networks and reinforcement learning.
 
 ## Project Overview
 
