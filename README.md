@@ -1,6 +1,6 @@
 # Machine Learning Course 2024
 
-Welcome to the repository for the Machine Learning course mini projects. This repository contains the implementation, analysis, and evaluation of various machine learning algorithms and techniques through four mini projects. Each mini project explores different aspects of machine learning, from classification and regression to neural networks and reinforcement learning. Please contact the teaching assistant, Mr. Javad Ahmadi, at [ai.kntu.ac@gmail.com](mailto:ai.kntu.ac@gmail.com)
+Welcome to the repository for the Machine Learning course. This repository contains the implementation, analysis, and evaluation of various machine learning algorithms and techniques through four mini projects. Each mini project explores different aspects of machine learning, from classification and regression to neural networks and reinforcement learning. Please contact the teaching assistant, Mr. Javad Ahmadi, at [ai.kntu.ac@gmail.com](mailto:ai.kntu.ac@gmail.com)
 
 ## Course Overview
 
