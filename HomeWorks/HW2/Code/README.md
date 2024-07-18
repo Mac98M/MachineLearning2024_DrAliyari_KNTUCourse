@@ -1,4 +1,4 @@
-# Mini Project 2: Comparative Analysis of Machine Learning Classifiers
+# Mini Project 2: Implementation and Comparison of MLP, Decision Trees, Random Forest, and Naive Bayes
 
 This mini-project explores the implementation and evaluation of several machine learning classifiers. The goal is to compare their performance on specific datasets and understand their strengths and weaknesses. The project involves:
 
