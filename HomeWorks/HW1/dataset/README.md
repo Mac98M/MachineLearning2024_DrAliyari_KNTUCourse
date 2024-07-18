@@ -1,5 +1,3 @@
----
-
 # Dataset Information for Mini Project 1
 
 This folder contains the datasets used for the various tasks in Mini Project 1: Training and Evaluating Machine Learning Classifiers. Below are the details of the datasets utilized in this project.
@@ -77,4 +75,3 @@ The Weather in Szeged dataset contains weather data collected over a period of 1
 The dataset can be accessed from Kaggle:
 [Weather Dataset on Kaggle](https://www.kaggle.com/datasets/budincsevity/szeged-weather)
 
----
