@@ -20,26 +20,6 @@ This mini-project explores the implementation and evaluation of several machine 
   - Compared performance using Micro and Macro average methods.
   - Analyzed the differences between predicted and actual values.
 
-### Datasets Used
-
-#### CWRU Bearing Dataset
-- **Overview:** Contains vibration data collected from a motor with different fault conditions and speeds. Used in Question 2.
-- **Details:**
-  - Extended by adding more fault classes.
-  - Performed feature extraction and data preparation.
-  - Used to train and evaluate MLP models.
-
-#### Heart Disease Dataset
-- **Overview:** Contains data related to heart disease diagnosis. Used in Question 4.
-- **Details:**
-  - Used to train a Gaussian Naive Bayes classifier.
-  - Evaluated using cross-validation and analyzed prediction results.
-
-#### Drug Classification or Forest Cover Type Dataset
-- **Overview:** Used in Question 3.
-- **Details:**
-  - Trained decision tree classifiers and evaluated performance.
-  - Applied parameter tuning and compared with ensemble methods.
 
 ### Methods and Techniques
 
