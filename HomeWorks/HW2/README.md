@@ -6,7 +6,7 @@ This repository contains the implementation of various machine learning classifi
 
 ### Classifiers Implemented
 - **Multi-layer Perceptron (MLP):** Implemented with varying architectures and activation functions.
-- **Random Forest:** Compared with individual classifiers to assess the improvement in performance.
+- **Decision Tree and Random Forest:** Compared with individual classifiers to assess the improvement in performance.
 - **Naive Bayes:** Applied to datasets assuming Gaussian distribution of features.
 
 ### Objectives
