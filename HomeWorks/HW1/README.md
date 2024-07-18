@@ -27,25 +27,5 @@ For the purposes of this mini project, we generated a synthetic dataset using th
   X, y = make_classification(n_samples=1000, n_features=3, n_classes=4, random_state=42)
   ```
 
-## CWRU Bearing Dataset
-
-### Overview
-The CWRU Bearing dataset contains vibration data collected from a motor with different fault conditions and speeds. This dataset is widely used for bearing fault diagnosis and condition monitoring.
-
-### Dataset Characteristics
-- **Number of Instances:** Various files depending on the fault conditions.
-- **Number of Features:** Multiple time-domain vibration signal measurements.
-- **Fault Types:** The dataset includes normal operation and different fault conditions.
-
-### Usage in Project
-
-#### Question 2
-- **Objective:** To extend the dataset and perform feature extraction.
-- **Details:**
-  - Extended the CWRU dataset by adding more fault classes.
-  - Extracted features and prepared the dataset for training MLP models.
-  - Trained and evaluated MLP models with different architectures.
-  - Implemented K-Fold and Stratified K-Fold cross-validation.
-  - **Code Link:** [Q2](https://colab.research.google.com/drive/1n2_XaebwkQXjIUKGk4crT_Kc2tnwLnAY?usp=sharing)
 
 
