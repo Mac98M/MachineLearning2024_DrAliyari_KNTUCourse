@@ -1,6 +1,6 @@
 # Machine Learning 2024 - Dr. Aliyari KNTU Course
 Welcome to the official repository for the Machine Learning 2024 course by Dr. Mehdi Aliyari at Khajeh Nasir Toosi University of Technology (KNTU). This repository serves as a comprehensive collection of academic assignments, projects, and resources related to the field of machine learning. Here, you will find detailed explorations and applications of various machine learning concepts and techniques.
-Please contact the teaching assistant, Mr. Javad Ahmadi, at [ai.kntu.ac@gmail.com](mailto:ai.kntu.ac@gmail.com).
+Please contact the teaching assistant, Mr. Javad Ahmadi, at [ai.kntu.ac@gmail.com](mailto:ai.kntu.ac@gmail.com)
 
 ## Course Overview
 
@@ -46,5 +46,5 @@ The course evaluation is based on the following components:
 
 ## Contact
 
-For any questions or issues, please contact Me at [masihmj00@gmail.com](mailto:masihmj00@gmail.com) .
+For any questions or issues, please contact Me at [masihmj00@gmail.com](mailto:masihmj00@gmail.com) 
 
