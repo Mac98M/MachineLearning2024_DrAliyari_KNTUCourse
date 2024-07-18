@@ -49,8 +49,7 @@ This mini-project explores the implementation and evaluation of several machine 
 - **Autoencoders and SMOTE:** Implemented for data denoising and addressing class imbalance, respectively.
 
 ## Links to Google Colab Notebooks
-
-- **Question 1:** [Q1](https://colab.research.google.com/drive/1kArNn1D5TADjH7yIPWhrTBEHnEt18PnT?usp=sharing)
-- **Question 2:** [Q2](https://colab.research.google.com/drive/1nV2djffDYJF--97fBHS3DmZTIi7dWh7h?usp=sharing)
-- **Question 3:** [Q3](https://colab.research.google.com/drive/18IklvkgDHrH45lYyN4chG9UFq2AQN8rX?usp=sharing)
-- **Question 4:** [Q4](https://colab.research.google.com/drive/198kllTQK4Q0mSq8fGQqtB7culZ11JsYl?usp=sharing)
+- **Implementation McCulloch-Pitts:** [Q1](https://colab.research.google.com/drive/1kArNn1D5TADjH7yIPWhrTBEHnEt18PnT?usp=sharing)
+- **MLP:** [Q2](https://colab.research.google.com/drive/1nV2djffDYJF--97fBHS3DmZTIi7dWh7h?usp=sharing)
+- **Decision Trees, Random Forest:** [Q3](https://colab.research.google.com/drive/18IklvkgDHrH45lYyN4chG9UFq2AQN8rX?usp=sharing)
+- **Naive Bayes:** [Q4](https://colab.research.google.com/drive/198kllTQK4Q0mSq8fGQqtB7culZ11JsYl?usp=sharing)
