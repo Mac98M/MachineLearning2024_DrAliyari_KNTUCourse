@@ -14,12 +14,6 @@ This repository contains the implementation of various machine learning classifi
 - Analyze the impact of various hyperparameters on classifier performance.
 - Understand the strengths and weaknesses of each classifier.
 
-## Dataset Information
-
-### CWRU Bearing Dataset
-
-The CWRU Bearing dataset was used for various experiments. The dataset contains vibration data collected from a motor with different fault conditions and speeds. The dataset used in this project includes three fault types in addition to normal operating conditions.
-
 ### Project Tasks
 
 #### Question 1: Multi-layer Perceptron (MLP)
@@ -33,7 +27,7 @@ The CWRU Bearing dataset was used for various experiments. The dataset contains 
 3. **MLP Training:** Train an MLP model on the prepared dataset, analyze accuracy, and plot loss and accuracy curves.
 4. **Cross-Validation:** Implement K-Fold and Stratified K-Fold cross-validation methods.
 
-#### Question 3: Random Forests
+#### Question 3: Decision Tree and Random Forests
 1. **Dataset Selection:** Use a dataset related to drug classification or forest cover type.
 2. **Decision Tree Training:** Train a decision tree classifier and evaluate its performance.
 3. **Parameter Tuning:** Analyze the effect of hyperparameters on the decision tree's performance and apply pruning.
