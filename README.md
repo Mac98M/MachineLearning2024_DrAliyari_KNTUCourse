@@ -8,9 +8,7 @@ This Machine Learning course is offered by the Mechatronics/Control group at K. 
 
 ### Instructor and TA Information
 - **Instructor:** Dr. Mehdi Aliyari
-  - Email: [aliyari@kntu.ac.ir](mailto:aliyari@kntu.ac.ir)
 - **Teaching Assistant:** Mr. Javad Ahmadi
-  - Email: [ai.kntu.ac@gmail.com](mailto:ai.kntu.ac@gmail.com)
 
 ### References
 - Tom Mitchell, “Machine Learning”, McGraw Hill, 1997.
