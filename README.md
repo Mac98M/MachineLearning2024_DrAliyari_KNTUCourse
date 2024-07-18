@@ -19,19 +19,15 @@ Throughout the semester, students will work on various mini-projects and assignm
 
 #### Mini Project 1: Classifiers and Logistic Regression
 - **Concepts Covered**: Classifiers, logistic regression, linear regression, and polynomial regression.
-- **Objectives**: Investigate different classifiers and regression models, understand their implementation, and analyze their performance on various datasets.
 
 #### Mini Project 2: Neural Networks and Bayesian Classifiers
 - **Concepts Covered**: Neural networks, activation functions (ReLU, ELU), McCulloch-Pitts neuron, perceptrons, multi-layer perceptrons, and Bayesian classifiers.
-- **Objectives**: Implement neural networks with different activation functions, analyze their performance, and explore Bayesian classification methods.
 
 #### Mini Project 3: Support Vector Machines (SVM) and Dimensionality Reduction
 - **Concepts Covered**: Support Vector Machines (SVM), kernel methods, Principal Component Analysis (PCA), and t-SNE.
-- **Objectives**: Investigate the performance of SVMs with various kernels, apply dimensionality reduction techniques, and analyze the results.
 
 #### Mini Project 4: Reinforcement Learning and Its Algorithms
 - **Concepts Covered**: Q-learning, Deep Q-learning, reinforcement learning, and policy performance analysis.
-- **Objectives**: Utilize Q-learning and Deep Q-learning to solve problems like the Wumpus World and Lunar Lander environments, analyze policy performance, and compare learning efficiency.
 
 ### Final Project
 
@@ -47,11 +43,6 @@ The course evaluation is based on the following components:
 
 **Total**: 110%
 
-## How to Use This Repository
-
-- **HomeWorks**: Contains all assignments and their solutions.
-- **Projects**: Includes mini-projects and the final project.
-- **Resources**: Additional resources and references used throughout the course.
 
 ## Contact
 
